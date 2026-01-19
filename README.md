@@ -38,4 +38,4 @@ The Titanic dataset is **partially ready** for Machine Learning.
 * **Action Plan:** The `age` column requires imputation (filling missing values), and categorical columns (like `sex`) need encoding before training a model.
 
 ---
-*Created as part of the Data Science Internship Task 1.*
+*Created as part of the AIML Internship Task 1.*
